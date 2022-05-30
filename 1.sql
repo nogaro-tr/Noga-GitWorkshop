@@ -1,1 +1,1 @@
-select getdate()
+select getdate ()
